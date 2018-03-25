@@ -74,5 +74,5 @@ Go to http://localhost:8080/app/login.
 
 Use your web-mail username and password to login.
 
-[demo-gif](demo.gif)
+![demo-gif](demo.gif)
 
