@@ -1,0 +1,1 @@
+django-iitg-auth==0.0.4
